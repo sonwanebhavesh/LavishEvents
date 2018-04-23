@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095280302606",
+    "firebase_url": "https://lavishevents-bf75f.firebaseio.com",
+    "project_id": "lavishevents-bf75f",
+    "storage_bucket": "lavishevents-bf75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095280302606:android:57c0a671e5fce83b",
+        "android_client_info": {
+          "package_name": "mayank.lavishevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095280302606-2tub841s3sbtvpdu7qp6o1372ekeuf9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mayank.lavishevents",
+            "certificate_hash": "90901cd808a1dfb7b3b88d7fdb9f45f3c5e8c585"
+          }
+        },
+        {
+          "client_id": "1095280302606-9fivgmctvid2naep49oncpbola7145g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjK6GioNd7mWRp9SHx1ZiX9VNOXh41pzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095280302606-9fivgmctvid2naep49oncpbola7145g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
